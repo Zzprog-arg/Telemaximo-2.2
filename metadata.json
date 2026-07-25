@@ -1,0 +1,6 @@
+{
+  "name": "TelemaXimo",
+  "description": "Una aplicación de IPTV optimizada para Android TV que permite cargar y reproducir listas m3u.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
